@@ -1,0 +1,47 @@
+body {
+  background-color: paleturquoise;
+  text-align: center;
+}
+.one {
+  background-image: url(/assests/image1.jpg);
+  display: flex;
+  height: 1000px;
+}
+.center {
+  display: flex;
+  background-color: burlywood;
+}
+.two {
+  border-radius: 50%;
+  height:50%;
+  width: 50%;
+  
+}
+.three {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+  
+}
+.four {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+}
+.card {
+  
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+.last
+{
+  background-color: darkgoldenrod;
+  
+}
